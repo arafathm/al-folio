@@ -14,7 +14,7 @@ profile:
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: false  # includes social icons at the bottom of the page
 ---
 
 I am currently a Postdoctoral Research Associate in the [Medical Image Analysis Lab (MIAL)](https://www.medicalimageanalysis.com/){:target="_blank"} of [Prof. Ghassan Hamarneh](https://www.sfu.ca/computing/people/faculty/ghassanhamarneh.html){:target="_blank"} at [Simon Fraser University](https://www.sfu.ca/computing.html){:target="_blank"}, Burnaby, BC, Canada. My research interests lie in machine/deep learning and its application to medical image analysis. 
