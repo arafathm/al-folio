@@ -140,7 +140,7 @@ plugins:
 scholar:
 
   last_name: Hussain
-  first_name: [Mohammad Arafat, M.A., MA]
+  first_name: Mohammad Arafat
 
   style: apa
   locale: en

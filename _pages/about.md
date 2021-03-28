@@ -5,7 +5,7 @@ permalink: /
 description: <a href="https://www.sfu.ca/computing.html">School of Computing Science</a>, Simon Fraser University, Burnaby, BC, Canada
 
 profile:
-  align: left
+  align: right
   image: Arafat.JPG
   address: >
    <!-- <p>555 your office number</p>
