@@ -65,56 +65,65 @@
       year: 2011
       place: Samsung R&D Institute, Dhaka, Bangladesh
 
-
-- title: Open Source Projects
-  type: table
-  contents:
-    - title: '<a href="https://github.com/eaplatanios/tensorflow_scala" target="_blank"><b>TensorFlow Scala.</b></a>'
-      year: 2017-now
-      description: Machine learning library and API for the <a href="https://www.tensorflow.org/" target="_blank">TensorFlow</a> framework developed by Google, that is currently being used by multiple researchers and companies (~600 GitHub stars).
-    - title: '<a href="https://github.com/eaplatanios/symphony-mt" target="_blank"><b>Symphony MT.</b></a>'
-      year: 2018
-      description: Machine translation library written in Scala, that supports various models along the whole translation pipeline (i.e., ranging from data preprocessing and vocabulary generation, to multiple encoder and decoder models).
-    - title: '<a href="https://github.com/eaplatanios/makina" target="_blank"><b>Makina.</b></a>'
-      year: 2014-16
-      description: Machine learning and optimization library written in Java that includes a scalable implementation of the Probabilistic Soft Logic (PSL) framework.
-
 - title: Honors and Awards
   type: table
   contents:
-    - year: 2017
-      items: 
-        - 2<sup>nd</sup> place in the CMU NeuroHackathon.
-    - year: 2016
-      items: 
-        - <b>CMU Presidential Fellowship</b>.
-    - year: 2010-13
-      items:
-        - <b>Sir Bruce White prize</b> in engineering for the best M.Eng. thesis at Imperial College London.
-        - <b>Dean's List</b> at Imperial College London, for exceptional academic performance (all four years).
-    - year: 2010
-      items:
-        - Nominated for the RAE (UK Royal Academy of Engineering) presentation skills award.
-        - '"Roll of Honor" of the Electrical and Electronic Engineering department of Imperial College London, for the best software design project in the year.'
-    - year: 2009
-      items:
-        - Congratulatory diploma for my work on "Project Protasis – Home Automation" by <b>UNESCO</b>.
-        - <b>Honorary plaque</b> by the <b>Greek Minister of Education and Religious Affairs</b> for honoring my country internationally.
-    - year: 2007-08
-      items:
-        - <b>Full scholarship</b> (of about €12,000) by "Geitonas School", for honoring my school internationally.
-        - Had a <b>computer science laboratory named after me</b> in “Geitonas School”, for honoring my school internationally.
-        - Awarded €1,000 by the <b>President of the Greek Parliament</b>, for honoring my country internationally.
-        - <b>Honorary plaque</b> by the Mayor of my city, Vari, in Greece, for honoring my country internationally.
-        - Represented Greece in the <b>Microsoft Imagine Cup 2008 Worldwide Finals</b>, in Paris, France, with "Project Protasis - Home Automation".
-        - 1<sup>st</sup> place in the Microsoft Imagine Cup 2008 Greek Finals with "Project Protasis - Home Automation", competing against teams from universities, at age of only 16 and having worked without a team or a mentor (also won the 2<sup>nd</sup> place in the Microsoft Imagine Cup 2009 Greek Finals with "Project Protasis - Forest Protection").
-    - year: 2007
-      items: 
-        - <b>Certificate of Excellence</b> for the school year 2006-07 from the Greek Ministry of Education and Religious Affairs.
-        - 3<sup>rd</sup> place (bronze medal) in the <b>Greek Mathematics Olympiad</b>, organized by the Hellenic Mathematical Society.
-    - year: 2003-07
-      items: 
-        - <b>11 scholarships</b> and competitions in the fields of mathematics, sciences and computer science.
+    - title: Graduate Student Award
+      place: Medical Image Computing and Computer Assisted Intervention Society
+      year: 2019
+      description:
+        - 'Received an award of 500 US$ to attend the premier conference, the International Conference on Medical Image Computing and Computer Assisted Interventions (MICCAI), held in Shenzhen, China.'
+    - title: Conference Travel Support for ICICS Graduate Students
+      place: Institute for Computing, Information and Cognitive Systems (ICICS), UBC
+      year: 2017
+      description:
+        - 'Received an award of 1000 CA$ to attend the International Conference on Medical Image Computing and Computer Assisted Interventions (MICCAI) and International Workshop on Machine Learning in Medical Imaging (MLMI), held in Quebec City, Quebec, Canada.'
+    - title: Outstanding Reviewer Recognition
+      place: Elsevier
+      year: 2016
+      description:
+        - 'Received this recognition from Elsevier or outstanding journal reviewing works.'
+    - title: Four Year Fellowship
+      place: University of British Columbia (UBC), Vancouver 
+      year: 2015-19
+      description:
+        - 'Received a full scholarship of 22,000CAD/year plus full tuition coverage for 4 years from the department of Electrical and Computer Engineering, UBC. This fellowship funds the doctoral research in Biomedical Engineering at the University of British Columbia, Vancouver, Canada.'
+    - title: Graduate Student Travel Award
+      place: Medical Image Computing and Computer Assisted Intervention Society
+      year: 2014
+      description:
+        - 'Received an award of 750 US$ to attend the premier conference, the International Conference on Medical Image Computing and Computer Assisted Interventions (MICCAI), held in Boston, MA.'
+    - title: Graduate Support Initiative
+      place: University of British Columbia (UBC), Vancouver 
+      year: 2013-16
+      description:
+        - 'Award of 4,000 CA$/year offered to graduate students demonstrating evidence of strong academic performance throughout the university studies.'
+    - title: Singapore Bangladesh Society Scholarship
+      year: 2010
+      place: Singapore Bangladesh Society
+      description:
+        - 'Received two awards totaling 12,000 BDT in recognition of strong academic performance in the undergraduate class at Bangladesh University of Engineering and Technology, Dhaka, Bangladesh.'
+    - title: American Association of Bangladeshi Engineers and Architects Scholarship
+      year: 2009
+      place: American Association of Bangladeshi Engineers and Architects
+      description:
+        - 'Received an award of 10,000 BDT in recognition of strong academic performance in the undergraduate class at Bangladesh University of Engineering and Technology, Dhaka, Bangladesh.'
+    - title: Life Membership
+      year: 2008
+      place: Bangladesh Red Crescent Society
+      description:
+        - 'Awarded the “Life Membership” in recognition of the voluntary participation and efforts in relief managements and distributions of Bangladesh Red Crescent Society during different natural calamities like hurricane and tornado.'
+    - title: Dean’s List Award
+      year: 2007
+      place: Bangladesh University of Engineering and Technology
+      description:
+        - 'Received an award of 3,000 BDT in recognition of achieving CGPA greater than 3.75 out of 4.00 in a year of the undergraduate class at Bangladesh University of Engineering and Technology, Dhaka, Bangladesh.'
+    - title: Merit Scholarship
+      year: 2003-10
+      place: Ministry of Education, Government of the People’s Republic of Bangladesh
+      description:
+        - 'Received two merit scholarships totaling 20,000 BDT/year for securing merit positions in class X and XII nation-wide board examinations.'
+
 
 - title: Teaching Experience
   type: table
