@@ -62,13 +62,13 @@ nav: true
 							{% endif %}
 							<div class="col-xs-10 cl-sm-10 col-md mt-2 mt-md-0">
 								{% if content.title %}
-								<h6 class="title font-weight-bold primary-color-dark ml-1 ml-md-4">{{content.title}}</h6>
+								<h6 class="title font-weight-bold ml-1 ml-md-4">{{content.title}}</h6>
 								{% endif %}
                                 {% if content.degree %}
-								<h6 class="item-title font-weight-bold ml-1 ml-md-4">{{content.degree}}</h6>
+								<h6 class="item-title ml-1 ml-md-4">{{content.degree}}</h6>
 								{% endif %}
                                 {% if content.place %}
-								<h6 class="item-title font-weight-bold ml-1 ml-md-4">{{content.place}}</h6>
+								<h6 class="item-title ml-1 ml-md-4">{{content.place}}</h6>
 								{% endif %}
 								{% if content.description %}
 									<ul class="items">
