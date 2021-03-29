@@ -2,57 +2,32 @@
   type: map
   contents:
     - name: Full Name
-      value: Emmanouil Antonios Platanios
-    - name: Date of Birth
-      value: 7th July 1991
+      value: Mohammad Arafat Hussain 
     - name: Nationality
-      value: Greek
+      value: Bangladesh. <b>Permanent Resident</b> of Canada
     - name: Languages
-      value: Greek (native), English (fluent), and German (beginner)
-
-- title: Research Areas
-  type: list
-  contents:
-    - Machine learning and artificial intelligence with a focus on learning collections of functions, neural cognitive architectures, and applications of AI and ML to natural language processing, robotics, computer vision and finance.
+      value: Bengali (native), English (fluent)
 
 - title: Education
   type: table
   contents:
-    - title: Carnegie Mellon University – Ph.D. in Machine Learning.
-      year: 2013-now
+    - title: University of British Columbia (UBC), Vancouver – Ph.D. in Biomedical Engineering
+      year: 2015-20
       description:
-        - Awarded the <b>CMU Presidential Fellowship</b>.
-        - '<u>GPA:</u> <b>4.18</b> (4.0 scale).'
-        - '<u>Advisor:</u> <a href="http://www.cs.cmu.edu/~tom/" target="_blank"><b>Prof. Tom M. Mitchell</b></a>.'
-        - 'I work on the <a href="http://rtw.ml.cmu.edu/" target="_blank"><b>Never Ending Language Learning (NELL)</b></a> project.'
-        - 'My thesis work is on <b>Learning Collections of Functions</b>.'
-        - title: 'I do research on topics related to <b>self-reflection in machine learning</b>:'
-          contents:
-            - I have developed multiple methods for using unlabeled data to estimate the accuracies of several different classifiers performing the same task, that I have presented at Uncertainty in Artificial Intelligence (<b>UAI</b>) in 2014, International Conference in Machine Learning (<b>ICML</b>) in 2016, and at Neural Information Processing Systems (<b>NIPS</b>) in 2017.
-            - I have developed a method for performing <b>low-resource and zero-shot multilingual machine translation</b>.
-            - I am developing a self-reflection mechanism for machine learning systems and I am applying it in NELL.
-            - I am working on a new framework for learning where agreement among multiple agents is the objective.
-    - title: Carnegie Mellon University – M.S. in Machine Learning.
+        - Awarded the <b>Four Year Fellowship (FYF)</b>.
+        - 'Supervisor:</u> <a href="https://bisicl.ece.ubc.ca/rafeef/" target="_blank"><b>Prof. Rafeef Garbi</b></a>'
+    - title: University of British Columbia (UBC), Vancouver – M.A.Sc. in Biomedical Engineering
       year: 2013-15
       description:
-        - '<u>GPA:</u> 4.18 (4.0 scale).'
-        - '<u>Advisor:</u> <a href="http://www.cs.cmu.edu/~tom/" target="_blank">Prof. Tom M. Mitchell</a>.'
-        - '<u>Thesis:</u> <b>Estimating Accuracy from Unlabeled Data</b>.'
-        - Master's degree requirements completed while working towards obtaining my Ph.D. in machine learning.
-    - title: Imperial College London – M.Eng. and ACGI in Electrical and Electronic Engineering.
-      year: 2009-13
+        - 'Supervisors:</u> <a href="https://bisicl.ece.ubc.ca/rafeef/" target="_blank"><b>Prof. Rafeef Garbi</b></a> and <a href="https://mech.ubc.ca/antony-hodgson/" target="_blank"><b>Prof. Antony Hodgson</b></a>'
+    - title: Bangladesh University of Engineering & Technology (BUET) - M.Sc. in Electrical and Electronic Engineering
+      year: 2011-13
       description:
-        - Integrated Bachelor's and Master's degree.
-        - <b>Dean’s List</b> for exceptional academic performance (all four years).
-        - title: '<u>Grade:</u> 91.67% (top 1% of class) with <b>92.37%</b> on the final exams – <b>First-Class Honors Degree</b>.'
-          contents:
-            - Equivalent to <b>4.0 GPA</b> in the USA academic system.
-        - title: '<u>Thesis Title:</u> <b>Human Motion Classification Using Statistical Machine Learning Methods</b>.'
-          contents:
-            - Awarded the <b>Sir Bruce White prize in engineering</b> for the best final year project.
-        - title: '<u>Third Year Summer Research Project:</u> "Bayesian Machine Learning Methodologies for Modeling Time Series with High Volatility".'
-          contents:
-            - Volatility modeling and prediction in a multitude of applications with significance both for industry (e.g. finance) and academia.
+        - 'Supervisor:</u> <a href="http://khasan.buet.ac.bd/" target="_blank"><b>Prof. Md Kamrul Hasan</b></a>'
+    - title: Bangladesh University of Engineering & Technology (BUET) - B.Sc. in Electrical and Electronic Engineering
+      year: 2006-11
+      description:
+        - 'Supervisor:</u> <a href="http://khasan.buet.ac.bd/" target="_blank"><b>Prof. Md Kamrul Hasan</b></a>'
 
 - title: Work Experience
   type: table
