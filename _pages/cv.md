@@ -65,7 +65,7 @@ nav: true
 								<h6 class="title font-weight-bold ml-1 ml-md-4">{{content.title}}</h6>
 								{% endif %}
                                 {% if content.degree %}
-								<h6 class="item-title">{{content.degree}}</h6>
+								<h6 class="item-title ml-1 ml-md-4">{{content.degree}}</h6>
 								{% endif %}
 								{% if content.description %}
 									<ul class="items">
