@@ -125,26 +125,40 @@
         - 'Received two merit scholarships totaling 20,000 BDT/year for securing merit positions in class X and XII nation-wide board examinations.'
 
 
-- title: Teaching Experience
+- title: Received Offers
   type: table
   contents:
-    - title: '<b>Provided support for an advanced graduate-level course on machine learning at Carnegie Mellon University.</b>'
-      year: 2018
-      description:
-        - '<u>Class:</u> 10-812 Architectures for Never-Ending Learning.'
-        - Taught by <b>Prof. Tom Mitchell</b>.
-        - Gave a couple of lectures and helped with the organization of the class.
-        - Designed and co-led the implementation of the software testbed used to support the course projects.
-        - Mentored several students working on class projects.
-    - title: '<b>Teaching Assistant for a graduate-level machine learning course at Carnegie Mellon University.</b>'
-      year: 2014, 16
-      description:
-        - '<u>Class:</u> 10-701/15-781 Introduction to Machine Learning.'
-        - Did this for two semesters (taught by <b>Prof. Geoff Gordon</b> and <b>Prof. Aarti Singh</b> in 2014, and <b>Prof. Tom Mitchell</b> in 2016).
-        - Gave some lectures and some recitation lectures.
-        - Mentored several groups of students working on class projects.
-        - Wrote and graded homework assignments and exams.
+    - title: Postdoctoral Fellowship Offer
+      place: From: Boston Children’s Hospital & Harvard Medical School
+      year: 2020
+    - title: Postdoctoral Fellowship Offer
+      place: From: Massachussetts General Hospital & Harvard Medical School
+      year: 2019
+    - title: Postdoctoral Fellowship Offer
+      place: From: School of Medicine, Stanford University, 2019
+      year: 2019
+    - title: DPhil Admission Offer
+      place: From: Department of Engineering, University of Oxford
+      year: 2015
 
+
+- title: Invited Talks
+  type: table
+  contents:
+    - title: '<a href="https://www.bme.ubc.ca/events/event/sbme-virtual-seminar-hussain/" target="_blank">School of Biomedical Engineering Virtual Seminar</a>, UBC, Vancouver'
+      place: Title: Volumetric Image-based Supervised Learning Approaches for Kidney Cancer Detection & Analysis
+      year: OCT 2020
+    - title: '<a href="https://www.camca.mgh.harvard.edu/" target="_blank">Center for Advanced Medical Computing and Analysis</a>, Harvard University, Boston, MA'
+      place: Title: Volumetric Image-based Supervised Learning for Renal Cancer Detection & Analysis
+      year: NOV 2019
+    - title: '<a href="http://dbpeds.stanford.edu/" target="_blank">Division of Developmental-Behavioral Pediatrics</a>, Stanford University, Palo Alto, CA'
+      place: Title: Kidney Cancer Analysis Using Volumetric Image-based Supervised Learning
+      year: OCT 2019
+    - title: '<a href="http://dbpeds.stanford.edu/" target="_blank">Centre for Molecular Medicine and Therapeutics</a>, UBC, Vancouver'
+      place: Title: Kidney Cancer Detection and Analysis from CT Using Deep Learning
+      year: SEP 2019
+      
+      
 - title: Services
   type: nested_list
   contents:
@@ -172,59 +186,3 @@
         - '2008: Helped organize the "Love Feast" (celebrating  family values and fund raising for the victims of forest fires in Greece).'
         - '2007: Reforestation in Mani, Greece.'
         - '2007: Volunteer at the "AQUA GALA" event for physically challenged children, for the "Hellenic Society for Disabled Children".'
-
-- title: Major Talks
-  type: table
-  contents:
-    - title: '<i>Competence-based Curriculum Learning for Neural Machine Translation</i>.'
-      year: 2019
-      description:
-        - 'North American Chapter of the Association for Computational Linguistics (<b>NAACL</b>) conference.'
-    - title: '<i>TensorFlow Scala</i>.'
-      year: 2018
-      description:
-        - 'Invited talk at <b>Google</b>.'
-    - title: '<i>Estimating Accuracy from Unlabeled Data</i>.'
-      year: 2014-18
-      description:
-        - Neural Information Processing Systems (<b>NIPS</b>) conference.
-        - International Conference in Machine Learning (<b>ICML</b>) conference.
-        - Uncertainty in Artificial Intelligence (<b>UAI</b>) conference.
-        - 'Invited talk at <b>Google</b>.'
-        - AI Lunch at Stanford University.
-        - ML Lunch at Carnegie Mellon University.
-    - title: '<i>Nonparametric Mixtures of Multi-Output Heteroscedastic Gaussian Processes</i>.'
-      year: 2012
-      description:
-        - '"Nonparametric Methods in Machine Learning" workshop at <b>NIPS</b>.'
-    - title: '<i>Project Protasis - Forest Protection</i>.'
-      year: 2009
-      description:
-        - <b>Microsoft Hellas Headquarters</b>.
-        - <b>Ministry of Transportation</b> of the Greek government (the Ministry later funded a pilot program).
-    - title: '<i>Project Protasis - Home Automation</i>.'
-      year: 2008-09
-      description:
-        - <b>Microsoft Hellas Headquarters</b>.
-        - <b>Louvre Museum</b> in Paris, France, as part of Imagine Cup.
-        - UNESCO International Conference on Climate Change and Challenges for the Future Generations.
-        - <b>Organization of School Buildings</b> of the Greek government (later received funding for a pilot program from the Ministry of Education and Religious Affairs).
-        - 73<sup>rd</sup> Thessaloniki International Fair.
-        - Generation Next 0-18 fair, in Athens.
-        - 4<sup>th</sup> International Conference on Information and Communication Technologies in Bio and Earth Sciences (HAICTA 2008), in Athens.
-
-- title: Software Development Skills
-  type: list
-  contents:
-    - '<u>GitHub:</u> <a href="https://github.com/eaplatanios" target="_blank">https://github.com/eaplatanios</a> (~900 stars from open-source projects).'
-    - '<u>Machine Learning Frameworks:</u> <a href="https://www.tensorflow.org/" target="_blank">TensorFlow</a>, <a href="https://pytorch.org/" target="_blank">PyTorch</a>.'
-    - '<u>High Level Programming Languages:</u> Swift, Scala, Java, C#, C, C++, Python, Pascal, Prolog, MATLAB, Mathematica, JavaScript, ...'
-    - '<u>Low Level Programming Languages:</u> Intel 80x86 Assembly, ARM Assembly, AVR Assembly.'
-    - '<u>Programming Environments (IDEs):</u> IntelliJ IDEA, Visual Studio, MATLAB, Eclipse, NetBeans, Mathematica, SWI-Prolog IDE, ...'
-    - '<u>Database Systems:</u> PostgreSQL, MS SQL Server, MySQL.'
-
-- title: Other Interests
-  type: list
-  contents:
-    - '<u>Sports:</u> Tennis, Squash, Winter Skiing, Basketball, Sailing, and Windsurfing.'
-    - '<u>Hobbies:</u> Traveling, Philosophy, and Politics (I also really want to learn to play the Guitar).'
