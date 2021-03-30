@@ -1,13 +1,13 @@
 ---
 layout: page
-permalink: /academic duties/
-title: academic duties
+permalink: /teaching/
+title: teaching
 description:
 nav: true
 ---
 
 <div class="aca_duty">
-	{% for entry in site.data.aca_duty %}
+	{% for entry in site.data.teaching %}
 		<div class="card mt-3 p-3">
 			<h3 class="card-title">{{ entry.title }}</h3>
 			<div>
