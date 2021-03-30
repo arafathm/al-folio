@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /cv/
-title: cv
+permalink: /academic duties/
+title: academic duties
 description:
 nav: true
 ---
@@ -13,8 +13,8 @@ nav: true
 	</a>
 </div>
 
-<div class="cv">
-	{% for entry in site.data.cv %}
+<div class="aca_duty">
+	{% for entry in site.data.aca_duty %}
 		<div class="card mt-3 p-3">
 			<h3 class="card-title">{{ entry.title }}</h3>
 			<div>

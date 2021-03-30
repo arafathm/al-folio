@@ -1,9 +1,9 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
+title: academic duties
 description:
-nav: false
+nav: true
 ---
 
 <h3 class="mt-4">carnegie mellon university</h3>
