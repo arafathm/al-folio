@@ -76,6 +76,9 @@
   author={Hussain, Mohammad Arafat and Hamarneh, Ghassan and Garbi, Rafeef},
   journal={IEEE Transactions on Medical Imaging},
   year={2021},
+  html={https://ieeexplore.ieee.org/abstract/document/9358223?casa_token=rxZNi4GaP-YAAAAA:vlaAvOf6J1pKBT9goM4k0cCgPyJQ9NgOg_SSzt4iAFwHINOSelv-LsPXU44-XYmkME_wsI8},
+  pdf={https://www2.cs.sfu.ca/~hamarneh/ecopy/tmi2021.pdf},
+  abstract={Kidney volume is an essential biomarker for a number of kidney disease diagnoses, for example, chronic kidney disease. Existing total kidney volume estimation methods often rely on an intermediate kidney segmentation step. On the other hand, automatic kidney localization in volumetric medical images is a critical step that often precedes subsequent data processing and analysis. Most current approaches perform kidney localization via an intermediate classification or regression step. This paper proposes an integrated deep learning approach for (i) kidney localization in computed tomography scans and (ii) segmentation-free renal volume estimation. Our localization method uses a selection-convolutional neural network that approximates the kidney inferior-superior span along the axial direction. Cross-sectional (2D) slices from the estimated span are subsequently used in a combined sagittal-axial Mask-RCNN that detects the organ bounding boxes on the axial and sagittal slices, the combination of which produces a final 3D organ bounding box. Furthermore, we use a fully convolutional network to estimate the kidney volume that skips the segmentation procedure. We also present a mathematical expression to approximate the ‘volume error’ metric from the ‘Sørensen–Dice coefficient.’ We accessed 100 patients’ CT scans from the Vancouver General Hospital records and obtained 210 patients’ CT scans from the 2019 Kidney Tumor Segmentation Challenge database to validate our method. Our method produces a kidney boundary wall localization error of ~2.4mm and a mean volume estimation error of ~5%.},
   publisher={IEEE}
 }
 
@@ -87,6 +90,10 @@
   pages={130--138},
   year={2019},
   selected={true},
+  html={https://link.springer.com/chapter/10.1007/978-3-030-32226-7_15},
+  pdf={http://ece.ubc.ca/~bisicl/papers/mahmiccai19.pdf},
+  abstract={Renal cell carcinoma (RCC) is the seventh most common cancer worldwide, accounting for an estimated 140,000 global deaths annually. Clear cell RCC (ccRCC) is the major subtype of RCC and its biological aggressiveness affects prognosis and treatment planning. An important ccRCC prognostic predictor is its ‘grade’ for which the 4-tiered Fuhrman grading system is used. Although the Fuhrman grade can be identified by percutaneous renal biopsy, recent studies suggested that such grades may be non-invasively identified by studying image texture features of the ccRCC from computed tomography (CT) data. Such image feature based identification currently mostly relies on laborious manual processes based on visual inspection of 2D image slices that are time-consuming and subjective. In this paper, we propose a learnable image histogram based deep neural network approach that can perform the Fuhrman low (I/II) and high (III/IV) grade classification for ccRCC in CT scans. Validated on a clinical CT dataset of 159 patients from the TCIA database, our method classified ccRCC low and high grades with 80% accuracy and 85% AUC.},
+  code={https://github.com/marafathussain/ImHistNet},
   organization={Springer, Cham}
 }
 
@@ -98,6 +105,10 @@
   pages={533--540},
   year={2019},
   selected={true},
+  html={https://link.springer.com/chapter/10.1007/978-3-030-32692-0_61},
+  pdf={http://ece.ubc.ca/~bisicl/papers/mahmlmi19.pdf},
+  abstract={Renal cell carcinoma (RCC) is the seventh most common cancer worldwide, accounting for an estimated 140,000 global deaths annually. An important RCC prognostic predictor is its ‘stage’ for which the tumor-node-metastasis (TNM) staging system is used. Although TNM staging is performed by radiologists via pre-surgery volumetric medical image analysis, a recent study suggested that such staging may be performed by studying the image features of the RCC from computed tomography (CT) data. Currently TNM staging mostly relies on laborious manual processes based on visual inspection of 2D CT image slices that are time-consuming and subjective; a recent study reported about   ∼ 25% misclassification in their patient pools. Recently, we proposed a learnable image histogram based deep neural network approach (ImHistNet) for RCC grading, which is capable of learning textural features directly from the CT images. In this paper, using a similar architecture, we perform the stage low (I/II) and high (III/IV) classification for RCC in CT scans. Validated on a clinical CT dataset of 159 patients from the TCIA database, our method classified RCC low and high stages with about 83% accuracy.},
+  code={https://github.com/marafathussain/ImHistNet},
   organization={Springer, Cham}
 }
 
