@@ -8,9 +8,7 @@ middle_name:
 last_name: Hussain, PhD
 email: arafat@ece.ubc.ca
 description:  >  # the ">" symbol means to ignore newlines until "footer_text:"
-  Postdoctoral Research Associate, SFU
 footer_text: >
-  Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 
 icon: Ⓜ️ # the emoji used as the favicon
 url:  # the base hostname & protocol for your site
