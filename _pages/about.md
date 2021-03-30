@@ -6,7 +6,7 @@ description: Postdoc @SFU
 
 profile:
   align: right
-  image: Arafat.JPG
+  image: img_new.png
   address: >
    <!-- <p>555 your office number</p>
     <p>123 your address street</p>
