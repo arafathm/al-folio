@@ -134,8 +134,8 @@ plugins:
 
 scholar:
 
-  last_name: Hussain
-  first_name: Mohammad Arafat
+  last_name: Hussain 
+  first_name: ['Mohammad Arafat', 'Mohammad Arafat*']
 
   style: apa
   locale: en
