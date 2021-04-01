@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image
+title: Radiogenomics with Deep Learning
+description: Multiple Instance Dcision Aggregation for Gene Mutation Detection from CT
 img: /assets/img/3.jpg
 importance: 2
 ---
