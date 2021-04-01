@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Gene Mutation Prediction using <u>Deep Learning</u>
+title: Gene Mutation Prediction using <p style="color:blue;">Deep Learning</p>
 description: Multiple Instance Dcision Aggregation for Gene Mutation Detection from CT
 img: /assets/img/r2_cover.png
 importance: 2
