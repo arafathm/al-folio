@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
+title: <font style="color:blue;">Deep Learning</font> for Organ Localization
+description: Healthy and Pathologic Kidney Localization in CT using Deep Learning
+img: /assets/img/r4_cover.png
 importance: 3
 ---
 
