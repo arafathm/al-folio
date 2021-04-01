@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Radiomics with Deep Learning
+title: Radiomics with <u>Deep Learning</u>
 description: Learnable Image Histogram for Cancer Analysis
 img: /assets/img/r1_cover.png
 importance: 1
