@@ -2,7 +2,7 @@
 layout: page
 title: research
 permalink: /research/
-description: 
+description: Deep/machine learning research project titles are indicated with <font style="color:blue;">Blue fonts</font>.
 nav: true
 ---
 
@@ -41,7 +41,8 @@ nav: true
         </div>
       </div>
     </a>
+    </a>
   </div>
-{% endfor %}
+  {% endfor %}
 
 </div>
