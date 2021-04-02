@@ -1,6 +1,6 @@
 ---
 layout: page
-title: '<font style="color:blue;">Deep/Machine Learning</font> for Organ Functionality Assessment'
+title: 'Kidney Assessment with <font style="color:blue;">Deep/Machine Learning</font>'
 description: Segmentation-free Kidney Volume Estimation
 img: /assets/img/r5_cover.png
 importance: 3
