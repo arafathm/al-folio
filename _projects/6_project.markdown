@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
+title: Empty 
+description: Please ignore this page..
 img:
-importance: 4
+importance: 5
 ---
 
 Every project has a beautiful feature showcase page.

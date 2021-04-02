@@ -17,7 +17,7 @@ Fluoroscopy remains the primary intraoperative imaging modality for bone boundar
     Fig. 1: Schematic indicating different components of our bone surface estimation method.
 </div>
 
-<strong>Bone contour estimation</strong>
+<strong>Bone Surface Localization</strong>
 
 This work has two steps: (1) At first, we estimate the 2D bone contour from a pair of RF frames taken with and without a little compression. To estimate the bone surface location in this pair of 2D images, we used a real-time strain imaging technique developed by Rivaz et al. (2011), which is based on an analytic minimization of a regularized cost function. The resulting strain image was fused with the envelope power map using a weight. The weight was selected based on an empirical analysis of the mean absolute error (MAE) between the actual and estimated bone surfaces for different weight values. The weight for which the MAE was lowest in this pilot data set was used throughout our experiments. Then we used local linear fits over the maximum intensity point along each scan line of the fused map to produce the final bone boundary. (2) Finally, having identified a seed contour in the 2D elastographic image, we next use a surface growing approach to extend this contour laterally through the 3D volume set. 
 
@@ -27,8 +27,6 @@ We acquired eight sets ofin vivo US data, five of which were acquired for 2D eva
 II: 33-y-old man, volunteer III: 26-y-old man, volunteer IV: 24-y-old man, volunteer V: 27-y-old man), and three sets of data were acquired for 3-D evaluations from three volunteers (volunteer VI: 27-y-old man, volunteer VII: 26-y-old man, volunteer VIII: 29-y-old man) after obtaining informed consent. All data were acquired with freehand compression. The US images were acquired using a SonixRP (Ultrasonix Medical) scanner in the Center for Hip Health and Mobility, Vancouver Coastal Health Authority. Here also, we used a L14-5/60 linear array probe operating at 10 MHz and a 4DL14-5/38 linear 4D array probe operating at 5 MHz to collect data for the 2D and 3D implementations, respectively. The study was approved by the UBC clinical research ethics board
 
 <strong>Results</strong>
-
-The base model training run for 100 epochs/fold and the mean Dice metrics for five-fold cross-validations are 0.83, 0.88, 0.71, 0.68, and 0.74 respectively.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
