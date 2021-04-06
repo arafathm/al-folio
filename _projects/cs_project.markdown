@@ -3,7 +3,7 @@ layout: page
 title: Compressive Sensing
 description: Compressively Sensed Ultrasound Radio-frequency Data Reconstruction
 img: /assets/img/cs_cover.png
-importance: 6
+importance: 5
 ---
 
 Ultrasound (US) imaging has become an essential part of clinical routine that produces real-time images of patient anatomy. As a non-ionizing and low-cost modality, US has a number of advantages over other medical imaging modalities like non-invasiveness, portability, and versatility. However, handling a large amount of US data during real-time imaging as well as its transmission at low bit rate (and without any perceived loss of image quality) in tele-medicine are considered limiting factors.
@@ -13,7 +13,7 @@ The recently introduced compressive sensing (CS) theory allows to recover a sign
 
 <strong>CCW-based Reconstruction Method</strong>
 
-The primary target of the CCW-based reconstruction method is to recover the original signal <i>F</i> using a combined orthonormal sparsifying domain that consists of curvelets and wave atoms coefficients. This equation is an under-determined inverse problem. The solution of this equation would be the model that agrees with incomplete data <i><b>b</b></i> after being restricted by restriction operator <i><b>R</b></i>. We reformulate the problem according to the compressive sampling theory as <i><b>b = A</b>x</i> with <i><b>A = RS</b><sup>H</sup></i>, where <i><b>S =</b>C||W</i> is the sparsifying transform that catenates two different sparsifying bases namely curvelets <i>C</i> and wave atoms <i>W</i>, <i>||</i> sign denotes catenation operator, and <i><b>S</b><sup>H</sup> = C<sup>H</sup>H||W<sup>H</sup></i>. Finally, for randomized subsampling, we can write <i><b>A</b><sup>H</sup>(b) = <b>A</b><sup>H</sup><b>A</b>x ≈ x + n</i>, where <i>n</i> represent the approximated additive white Gaussian noise due to the spectral leakage. The curvelets and wave
+The primary target of the CCW-based reconstruction method is to recover the original signal <i>F</i> using a combined orthonormal sparsifying domain that consists of curvelets and wave atoms coefficients. This equation is an under-determined inverse problem. The solution of this equation would be the model that agrees with incomplete data <i><b>b</b></i> after being restricted by restriction operator <i><b>R</b></i>. We reformulate the problem according to the compressive sampling theory as <i><b>b = A</b>x</i> with <i><b>A = RS</b><sup>H</sup></i>, where <i><b>S =</b>C||W</i> is the sparsifying transform that catenates two different sparsifying bases namely curvelets <i>C</i> and wave atoms <i>W</i>, <i>||</i> sign denotes catenation operator, and <i><b>S</b><sup>H</sup> = C<sup>H</sup>||W<sup>H</sup></i>. Finally, for randomized subsampling, we can write <i><b>A</b><sup>H</sup>(b) = <b>A</b><sup>H</sup><b>A</b>x ≈ x + n</i>, where <i>n</i> represent the approximated additive white Gaussian noise due to the spectral leakage. The curvelets and wave
 atoms transforms give a compressible representation of <i>s</i>, where <i>s</i> is the number of non-zero element in the sparsifying domain
 and therefore called <i>s</i>-sparse. It is shown in a previous article that for a matrix <i><b>b = A</b></i> with a specified isometry constant of the so-called restricted isometry property, optimization problem in the previous equation can be solved as: <i>x˜ = argmin<sub>x</sub>||x||<sub>1</sub> s.t. <b>RS</b><sup>H</sup>x = <b>b</b></i>.
 
@@ -35,4 +35,4 @@ We use three sets of in vivo US data from patients undergoing open surgical RF t
 
 <strong>For Details</strong>
 
-Please read our paper for details [1](https://ieeexplore.ieee.org/abstract/document/7428257?casa_token=XICEk4II6TIAAAAA:g1EyVRJBif0dyvwfNNe9xHFZZvjfLYcwee5A-FKCcQvPHnkxzFUwhTN5IcmZzRowekltrJs).
+Please read our paper for details [[1](https://ieeexplore.ieee.org/abstract/document/7428257?casa_token=XICEk4II6TIAAAAA:g1EyVRJBif0dyvwfNNe9xHFZZvjfLYcwee5A-FKCcQvPHnkxzFUwhTN5IcmZzRowekltrJs)].
