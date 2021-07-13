@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: Research Fellow, Boston Children's Hospital/Harvard Medical School
+description: <b>Research Fellow, Harvard Medical School, Boston Children's Hospital</b>
 
 profile:
   align: right
