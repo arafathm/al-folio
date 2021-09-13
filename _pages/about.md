@@ -6,7 +6,7 @@ description: <b>Research Fellow, Harvard Medical School, Boston Children's Hospi
 
 profile:
   align: right
-  image: img_new.png
+  image: arafat2.jpg
   address: >
    <!-- <p>555 your office number</p>
     <p>123 your address street</p>
